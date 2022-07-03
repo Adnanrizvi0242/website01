@@ -1,0 +1,53 @@
+
+.main{
+    display: flex;
+    box-sizing: border-box;
+    line-height: 0.05rem;
+    background-color: black;
+    color: antiquewhite;
+    padding: 100px 50px;
+}
+
+.left{
+    text-align: center;
+    display: flex;
+    flex-direction:column;
+    box-sizing: border-box;
+    width: 50vw;
+    justify-content: center;
+    
+
+}
+.right{
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    image-resolution: 50;
+}
+.l1w1{
+    font-family: 'Splash', cursive;
+}
+.new{
+    display: flex;
+    justify-content: center;
+}
+.l1w2{
+    color: crimson;
+}
+.l2{
+    font-size: 4.5rem;
+}
+.l4{
+    padding-top: 8rem;
+}
+.l1{
+    margin: 2rem 8rem;
+    background-color:#ABC9FF;
+    border-radius: 20rem;
+    padding: 1rem;
+    font-size: medium;
+    font-family: 'Rubik Moonrocks', cursive;
+    
+
+
+}
